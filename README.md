@@ -1,4 +1,4 @@
-# incident_app
+# flutter_template
 
 A new Flutter project.
 
